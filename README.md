@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @middleflames
-- 👀 I’m interested in Deep learning and NLP
+- I am a second-year PhD student at UConn.
+- 👀 My interest lies in NLP and representation learning.
 
 
 <!---
