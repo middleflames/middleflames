@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @middleflames
 - I am a second-year PhD student at UConn.
 - 👀 My interest lies in NLP and representation learning.
-
+- Blog: https://middleflames.github.io/
 
 <!---
 middleflames/middleflames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
